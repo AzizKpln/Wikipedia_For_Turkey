@@ -2,7 +2,7 @@
 pip3 install nltk
 
 # Open Terminal And Write python3
-python3
-import nltk
+python3,
+import nltk,
 nltk.download()
 
